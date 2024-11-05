@@ -106,7 +106,7 @@
     background-color: #21b2aa;
     min-height: 500px;
     width: 15%;
-    border: 1px dashed;
+    border: 1px dashed white;
 }
 
 .footer-bottom>.container {
