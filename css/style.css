@@ -10,6 +10,8 @@
     max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
+    justify-content: center;
 }
 
 /* HEADER */
@@ -48,6 +50,5 @@
 .col-center {
     background-color: #ee82ee;
     min-height: 200px;
-    max-width: 500px;
-    
+    width: 800px;
 }
