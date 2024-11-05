@@ -51,4 +51,26 @@
     background-color: #ee82ee;
     min-height: 200px;
     width: 800px;
+    border: 1px dashed;
+}
+
+/* MAIN */
+main {
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+}
+
+.col-big {
+    background-color: #1f90ff;
+    min-height: 250px;
+    width: 1000px;
+    border: 1px dashed;
+}
+
+.col-small {
+    background-color: #ffc0cb;
+    min-height: 250px;
+    width: 650px;
+    border: 1px dashed;
 }
