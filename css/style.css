@@ -88,3 +88,22 @@ main {
     width: 1200px;
     border: 1px dashed;
 }
+
+.footer-section {
+    background-color: #22272a;
+    padding: 30px 0;
+}
+
+.col-big-red {
+    background-color: #ef8080;
+    min-height: 500px;
+    width: 500px;
+    border: 1px dashed;
+}
+
+.col-small-green{
+    background-color: #21b2aa;
+    min-height: 500px;
+    width: 15%;
+    border: 1px dashed;
+}
