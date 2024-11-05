@@ -46,6 +46,8 @@
 }
 
 .col-center {
-    background-color: deeppink;
+    background-color: #ee82ee;
     min-height: 200px;
+    max-width: 500px;
+    
 }
