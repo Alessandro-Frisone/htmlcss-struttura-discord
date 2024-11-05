@@ -89,6 +89,9 @@ main {
     border: 1px dashed;
 }
 
+/* FOOTER */
+
+
 .footer-section {
     background-color: #22272a;
     padding: 30px 0;
@@ -105,5 +108,22 @@ main {
     background-color: #21b2aa;
     min-height: 500px;
     width: 15%;
+    border: 1px dashed;
+}
+
+.footer-bottom >.container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #80fed4;
+    padding: 30px 0;
+}
+
+.logo1 {
+    background-color: #ef8080;
+    border: 1px dashed;
+}
+
+.bottone {
+    background-color: #ef8080;
     border: 1px dashed;
 }
