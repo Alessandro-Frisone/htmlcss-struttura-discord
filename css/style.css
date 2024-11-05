@@ -57,7 +57,6 @@
 /* MAIN */
 main {
     padding: 30px 0;
-    justify-content: center;
 }
 
 .section {
@@ -81,4 +80,11 @@ main {
 .second-section {
     background-color: lightgray;
     padding: 30px 0;
+}
+
+.col-green {
+    background-color: #228b22;
+    min-height: 600px;
+    width: 1200px;
+    border: 1px dashed;
 }
