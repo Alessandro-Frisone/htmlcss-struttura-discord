@@ -25,19 +25,21 @@
     padding: 30px 0;
 }
 
-.header-top > .container {
+.header-top>.container {
     display: flex;
     background-color: #daa520;
 }
 
-.header-top > * {
+.header-top>* {
     border: 1px dashed black;
     padding: 6px;
 }
 
-.header-top .logo, .header-top .login {
+.header-top .logo,
+.header-top .login {
     width: 20%;
 }
+
 .header-top .login {
     text-align: right;
 }
@@ -55,10 +57,6 @@
 }
 
 /* MAIN */
-main {
-    padding: 30px 0;
-}
-
 .section {
     padding: 30px 0;
 }
@@ -104,14 +102,14 @@ main {
     border: 1px dashed;
 }
 
-.col-small-green{
+.col-small-green {
     background-color: #21b2aa;
     min-height: 500px;
     width: 15%;
     border: 1px dashed;
 }
 
-.footer-bottom >.container {
+.footer-bottom>.container {
     display: flex;
     justify-content: space-between;
     background-color: #80fed4;
