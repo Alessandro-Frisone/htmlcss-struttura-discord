@@ -30,15 +30,9 @@
     background-color: #ffc0cb;
     border: 1px dashed;
 }
-.debug.second-section{
-    background-color: lightgray;
-}
 .debug .col-green{
     background-color: #228b22;
     border: 1px dashed;
-}
-.debug .footer-section{
-    background-color: #22272a;
 }
 .debug .col-big-red{
     background-color: #ef8080;
@@ -130,6 +124,7 @@
 }
 
 .second-section {
+    background-color: lightgray;
     padding: 30px 0;
 }
 
@@ -143,6 +138,7 @@
 
 /* FOOTER */
 .footer-section { 
+    background-color: #22272a;
     padding: 30px 0;
 }
 
